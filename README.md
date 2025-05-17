@@ -1,8 +1,8 @@
 
-# Finance Tracker 
+# Personal Finance Tracker 
 
-Helps to manage your Income and Expenses in one place. 
-
+**Helps you manage your income and expenses in one place. 
+**
 
 ## Features
 

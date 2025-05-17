@@ -27,12 +27,15 @@ Github Link: https://github.com/bharathganeshn/Finance__Platform
 ![image](https://github.com/user-attachments/assets/707bbd07-bf8a-469c-976f-147a44da7891)
 **Login Page**
 ![image](https://github.com/user-attachments/assets/d8727644-1be0-4d98-840d-a973ca6f6e1f)
-**Adding Accounts**
+**Dashboard Page**
 ![image](https://github.com/user-attachments/assets/48f2ea50-46b4-4ad9-b1a8-1b3523c2db96)
+**Account Manager**
 ![image](https://github.com/user-attachments/assets/0ecf19c9-240d-446f-b195-2576c7c3d90f)
+**Add Transaction page**
 ![image](https://github.com/user-attachments/assets/4836f491-38b1-4d8d-abb3-0ba769491f41)
+**Adding Transaction Form**
 ![image](https://github.com/user-attachments/assets/c84b5f61-8045-4d7f-94a9-18c00658fbc1)
-**Personal Account Transactions** 
+**Personal Account Dashboard** 
 ![image](https://github.com/user-attachments/assets/f7ee26c8-b377-4e96-9d3a-5ed495857819)
 
 
@@ -42,7 +45,7 @@ Github Link: https://github.com/bharathganeshn/Finance__Platform
 
 ## Demo
 
-[https:](https://fin-track-five-inky.vercel.app/)
+[[https:](https://fin-track-five-inky.vercel.app/)](https://fin-track-five-inky.vercel.app/)
 
 
 ## Tech Stack

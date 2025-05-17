@@ -23,9 +23,11 @@ Github Link: https://github.com/bharathganeshn/Finance__Platform
 
 ## Screenshots
 
+**Landing page**
 ![image](https://github.com/user-attachments/assets/707bbd07-bf8a-469c-976f-147a44da7891)
+**Login Page**
 ![image](https://github.com/user-attachments/assets/d8727644-1be0-4d98-840d-a973ca6f6e1f)
-Adding Accounts
+**Adding Accounts**
 ![image](https://github.com/user-attachments/assets/48f2ea50-46b4-4ad9-b1a8-1b3523c2db96)
 ![image](https://github.com/user-attachments/assets/0ecf19c9-240d-446f-b195-2576c7c3d90f)
 ![image](https://github.com/user-attachments/assets/4836f491-38b1-4d8d-abb3-0ba769491f41)

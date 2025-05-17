@@ -45,7 +45,7 @@ Github Link: https://github.com/bharathganeshn/Finance__Platform
 
 ## Demo
 
-[[https:](https://fin-track-five-inky.vercel.app/)](https://fin-track-five-inky.vercel.app/)
+(https://fin-track-five-inky.vercel.app/)](https://fin-track-five-inky.vercel.app/)
 
 
 ## Tech Stack

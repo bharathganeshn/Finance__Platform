@@ -24,7 +24,8 @@ Github Link: https://github.com/bharathganeshn/Finance__Platform
 ## Screenshots
 
 **Landing page**
-![image](https://github.com/user-attachments/assets/707bbd07-bf8a-469c-976f-147a44da7891)
+<img width="1892" height="887" alt="image" src="https://github.com/user-attachments/assets/9495c987-51c8-4e7b-bb40-03f6b6a77047" />
+
 **Login Page**
 ![image](https://github.com/user-attachments/assets/d8727644-1be0-4d98-840d-a973ca6f6e1f)
 **Dashboard Page**

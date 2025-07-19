@@ -44,11 +44,6 @@ Github Link: https://github.com/bharathganeshn/Finance__Platform
 
 
 
-## Demo
-
-
-
-
 ## Tech Stack
 
 **Client:** React, Redux, TailwindCSS
